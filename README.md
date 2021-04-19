@@ -22,3 +22,10 @@ hit body = lose
 
 =====================================
 
+Fonctionnalité
+
+create profile
+passwords
+leaderboard
+score counting
+fruits value type
